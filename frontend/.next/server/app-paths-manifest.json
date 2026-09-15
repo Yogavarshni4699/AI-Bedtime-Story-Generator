@@ -1,6 +1,0 @@
-{
-  "/api/story/revise/route": "app/api/story/revise/route.js",
-  "/api/story/route": "app/api/story/route.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/page": "app/page.js"
-}
